@@ -92,6 +92,7 @@ Instructions for setting up your own Instance:
 - Synapse (Reference Implementation, in Python): https://element-hq.github.io/synapse/latest/setup/installation.html
 - Tuwunel (Alternative Implementation, in Rust): https://github.com/matrix-construct/tuwunel
 - Other Implementations: https://matrix.org/ecosystem/servers/
+
 ---
 
 I am by no means a professional and I am more than happy to accept feedback via issues on GitHub at https://github.com/CanadianBaconBoi/PreserveYourPrivacy/issues
