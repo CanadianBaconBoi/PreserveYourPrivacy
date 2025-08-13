@@ -1,3 +1,7 @@
+---
+layout: null
+title: Preserve Your Privacy
+---
 # Your Right to Privacy is Ending.
 ## It's time to *decentralize* your social media presence.
 
