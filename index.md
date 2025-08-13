@@ -2,7 +2,7 @@
 layout: default
 title: Preserve Your Privacy
 ---
-# Your Right to Privacy is Ending.
+# Your Right to Privacy May Be Ending.
 ## It's time to *decentralize* your social media presence.
 
 Decentralization, Defintion: The process by which the activities of an organization, particularly those related to planning and decision-making, are distributed or delegated away from a central, authoritative location or group and given to smaller factions within it.
