@@ -38,12 +38,12 @@ There is no Central Authority; It is made by users, for users.
 
 There exist numerous free, public Instances at which you may register for an account, the option is also available to run your own, and still maintain complete access to the network.
 
-You can use the amazing tool at https://instances.social to find the right public Instance for you!\\
+You can use the amazing tool at <https://instances.social> to find the right public Instance for you!\\
 Alternatively, find instructions for setting up a private instance below!
 
 [Technical]\\
 Instructions for setting up your own Instance:
-- From Mastodon: https://docs.joinmastodon.org/user/run-your-own/
+- From Mastodon: <https://docs.joinmastodon.org/user/run-your-own/>
 
 ---
 ### Bluesky - Mass Social Media:
@@ -55,14 +55,14 @@ Anyone may host a PDS (Personal Data Server) which is similar to an Instance, ho
 You can sign up below, and further down you can find out how to setup your own PDS.\\
 Instructions for setting up a Relay are out of scope for this guide.
 
-Website: https://bsky.app
+Website: <https://bsky.app>
 
 [Technical]\\
 Instructions for setting up your own PDS/Instance:
-- With a Raspberry Pi: https://justingarrison.com/blog/2024-12-02-run-a-bluesky-pds-from-home/
+- With a Raspberry Pi: <https://justingarrison.com/blog/2024-12-02-run-a-bluesky-pds-from-home/>
 - With Docker:
-	- https://mattdyson.org/blog/2024/11/self-hosting-bluesky-pds/
-	- https://cprimozic.net/notes/posts/notes-on-self-hosting-bluesky-pds-alongside-other-services/
+	- <https://mattdyson.org/blog/2024/11/self-hosting-bluesky-pds/>
+	- <https://cprimozic.net/notes/posts/notes-on-self-hosting-bluesky-pds-alongside-other-services/>
 
 ---
 ### Matrix/Element - Private Social Media - Discord-like:
@@ -76,27 +76,27 @@ It also supports End-to-End encryption between users and within server channels,
 Anyone may host a Matrix server, and there exist multiple implementations for doing so.\\
 There also exist a number of different servers you may sign up with, in case you don't want to sign up using `matrix.org` and don't want to self-host.
 
-These servers and links to sign up with them can be found here: https://matrix.org/ecosystem/hosting/
+These servers and links to sign up with them can be found here: <https://matrix.org/ecosystem/hosting/>
 
 Element is the default client, designed by the same team as Matrix, to communicate using the protocol.
 
 Do keep in mind you are not tied into using Element, many different alternatives exist, however, Element is the easiest to use
 
 - Element:
-	- Website: https://element.io
-	- Web App: https://app.element.io
+	- Website: <https://element.io>
+	- Web App: <https://app.element.io>
 	- Supports: Web, Desktop (Windows/Linux/Mac), Android, iOS
 - SchildiChat, a Software Fork of Element:
-	- Website: https://schildi.chat
-	- Web App: https://app.schildi.chat
+	- Website: <https://schildi.chat>
+	- Web App: <https://app.schildi.chat>
 	- Supports: Web, Desktop (Windows/Linux/Mac), Android
 
 [Technical]\\
 Instructions for setting up your own Instance: 
-- Synapse (Reference Implementation, in Python): https://element-hq.github.io/synapse/latest/setup/installation.html
-- Tuwunel (Alternative Implementation, in Rust): https://github.com/matrix-construct/tuwunel
-- Other Implementations: https://matrix.org/ecosystem/servers/
+- Synapse (Reference Implementation, in Python): <https://element-hq.github.io/synapse/latest/setup/installation.html>
+- Tuwunel (Alternative Implementation, in Rust): <https://github.com/matrix-construct/tuwunel>
+- Other Implementations: <https://matrix.org/ecosystem/servers/>
 
 ---
 
-I am by no means a professional and I am more than happy to accept feedback via issues on GitHub at https://github.com/CanadianBaconBoi/PreserveYourPrivacy/issues
+I am by no means a professional and I am more than happy to accept feedback via issues on GitHub at <https://github.com/CanadianBaconBoi/PreserveYourPrivacy/issues>
