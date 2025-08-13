@@ -4,14 +4,17 @@
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="/assets/styles.css">
+    <link rel="stylesheet" href="/assets/custom-styles.css">
   </head>
   <body>
     {{ content }}
-    <div onclick="this.nextElementSibling.style.display='block'; this.style.display='none'">
-      <img width="560" height="315" src="assets/yt_thumbnail.png" style="cursor:pointer" />
-    </div>
-    <div style="display:none">
-      <iframe width="560" height="315" loading="lazy" src="https://www.youtube.com/embed/ylAP4Oigsow?start=120&amp;end=166&amp;autoplay=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <div id="psa-container">
+      <div onclick="this.nextElementSibling.style.display='block'; this.style.display='none'">
+        <img width="560" height="315" src="assets/yt_thumbnail.png" style="cursor:pointer" />
+      </div>
+      <div style="display:none">
+        <iframe width="560" height="315" loading="lazy" src="https://www.youtube.com/embed/ylAP4Oigsow?start=120&amp;end=166&amp;autoplay=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
     </div>
   </body>
 </html>
