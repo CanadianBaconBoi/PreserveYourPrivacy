@@ -27,7 +27,7 @@ Central Authority: A center (central server) which dictates all which may happen
 Decentralized: Having no center (central server) or several centers (independant central servers).\\
 Decentralized Network: A network consisting of multiple servers that are able to act as independent authorities.\\
 Instance: A server, typically part of a decentralized network.\\
-Federated: A type of Decentralized Network in which all networks freely share resources with more complete interconnection.\\
+Federated: A type of Decentralized Network in which all Instances freely share resources with more complete interconnection.\\
 Software Fork: A piece of software, derived from another piece of software with some modification made.
 
 ## Platforms
