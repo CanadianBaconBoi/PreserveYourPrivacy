@@ -1,5 +1,5 @@
 ---
-layout: null
+layout: default
 title: Preserve Your Privacy
 ---
 # Your Right to Privacy is Ending.
