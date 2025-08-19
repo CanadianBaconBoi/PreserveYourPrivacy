@@ -99,7 +99,11 @@ Instructions for setting up your own Instance:
 
 ---
 
-I am by no means a professional and I am more than happy to accept feedback via issues on GitHub at <https://github.com/CanadianBaconBoi/PreserveYourPrivacy/issues>
+This is more or less a parking page for the time being, I will happily accept any PRs made on GitHub.
+Once I've more time on my hands I will flush out the site much more.
+<https://github.com/CanadianBaconBoi/PreserveYourPrivacy/>
+
+Site code is found in the gh-pages branch
 
 ___
 
